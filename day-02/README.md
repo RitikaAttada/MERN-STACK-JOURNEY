@@ -247,33 +247,6 @@ export default App;
 
 > The same component can be rendered multiple times with different props.
 
-### Data Flow
-
-```text
-Parent
-  ↓
-Props
-  ↓
-Child
-```
-
----
-
-## 🚀 Next Step
-
-### Day 03 — State & Interactivity
-
-Topics to learn next:
-
-* [ ] `useState`
-* [ ] State vs Props
-* [ ] Updating state
-* [ ] Re-rendering
-* [ ] Event handlers
-* [ ] `onClick`
-* [ ] `onChange`
-* [ ] Building interactive components
-
 ---
 
 **MERN Stack Journey — Day 02 completed ✅**
